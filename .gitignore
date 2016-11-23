@@ -1,6 +1,15 @@
+# build
+*.d
 *.i
+*.o
 *.ii
 *.gpu
 *.ptx
 *.cubin
 *.fatbin
+
+# IDE
+.project
+.cproject
+Debug/
+Release/
